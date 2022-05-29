@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 888d939f6c35f4f4fa70f847a369ce51, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 142a3800b3779ac44ae4609935bbd9ab, type: 3}
+  - {fileID: 21300000, guid: e11cd550e70aa754b816b47b82c9bcf9, type: 3}
+  - {fileID: 21300000, guid: 87569f513aa9c2947bdf4430a553ac52, type: 3}
+  - {fileID: 21300000, guid: b77d536174f02604680746e0a75ae907, type: 3}
+  - {fileID: 21300000, guid: ed5d39e10ef60df469870c75c2b3fd1a, type: 3}
+  - {fileID: 21300000, guid: cf85cd527edaa5f4897e87f04f45e36e, type: 3}
+  - {fileID: 21300000, guid: 9cf66ce2ba4df40458e4b33bb203e84d, type: 3}
+  - {fileID: 21300000, guid: 1852227361370c840827747259b08f7e, type: 3}
+  - {fileID: 21300000, guid: 83876b736c9e05847a77a9408360477c, type: 3}
+  - {fileID: 21300000, guid: 42345ea31a9b30946962c4664e24092e, type: 3}
+  - {fileID: 21300000, guid: a9b89da5dd72f354699ddae79a005463, type: 3}
+  - {fileID: 21300000, guid: 0977076655642c64f88ad9c70779859d, type: 3}
+  - {fileID: 21300000, guid: df93ce866a139e24abece05329d0136b, type: 3}
+  - {fileID: 21300000, guid: af5272079aaa77741829fa3886f032fb, type: 3}
+  - {fileID: 21300000, guid: 1345c0f7b87d2d14d9ee89951de86f7c, type: 3}
+  - {fileID: 21300000, guid: caba5af7f55f9474e889d8cb16f7e29f, type: 3}
+  - {fileID: 21300000, guid: d62bee38707ac864fb7b3b9bb5081450, type: 3}
+  - {fileID: 21300000, guid: bbd42e88006b77f4aa1ac235852f3c87, type: 3}
+  - {fileID: 21300000, guid: 26b8e798f7fb2ad429e6108d72f1d85c, type: 3}
+  - {fileID: 21300000, guid: 0062eb692b248e34d9ca70f730badccb, type: 3}
+  - {fileID: 21300000, guid: 12b0fe69892af70409cbae0e47a87d79, type: 3}
+  - {fileID: 21300000, guid: ddaeb879e7abb384fb66a22e176870e0, type: 3}
+  - {fileID: 21300000, guid: a776d49a51ab9a049a41801387eecee8, type: 3}
+  - {fileID: 21300000, guid: e52d489ada20ec84dbfe74c8df340b8e, type: 3}
+  - {fileID: 21300000, guid: 970d7f9a7e0daa8469b79a911f82dbb6, type: 3}
+  - {fileID: 21300000, guid: bf40b03b3ee52db4bb81906c2f9fdd22, type: 3}
+  - {fileID: 21300000, guid: cdd4713be69571346a3837154fae1064, type: 3}
+  - {fileID: 21300000, guid: 653092db9e2c4d046980acb06734105b, type: 3}
+  - {fileID: 21300000, guid: 5e4ad4dbb9419914baa88ae1bda08e13, type: 3}
+  - {fileID: 21300000, guid: a0cba62c3c83f33449560df9d5412e65, type: 3}
+  - {fileID: 21300000, guid: df7283adc80bd1c4492eb3917d2ac2a1, type: 3}
+  - {fileID: 21300000, guid: 8d55a4ddbf4b48840a9eef3a0321acdb, type: 3}
+  - {fileID: 21300000, guid: 8430f6dde040e3646b25c4dc4a335b85, type: 3}
+  - {fileID: 21300000, guid: 503c7f0e3bb856844ae494dbc6e8a011, type: 3}
+  - {fileID: 21300000, guid: fbe6f35f3fe1f5942b6ffbc582c578bb, type: 3}
+  - {fileID: 21300000, guid: e85782bfe6cf8d449903acc7b5c82827, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bg_Noty_Cmn
+  - cards
+  - Battle
+  - Bg_Overlay_Brown_Cmn
+  - pngwing.com (2)
+  - Bar_Progress_Blue_Cmn
+  - pngwing.com (5)
+  - Elixir
+  - Bar_blue
+  - chest
+  - pngwing.com (4)
+  - pngwing.com (8)
+  - Bg_Ovelay_Wnd_Gay_Cmn2
+  - star
+  - +
+  - pngwing.com (3)
+  - Arow_up_blue
+  - Event
+  - check
+  - Emotions
+  - Bg_Overlay_List_Up_Cmn
+  - pngwing.com (7)
+  - btn_small
+  - Arow_up_green
+  - BG_notification
+  - pngwing.com (9)
+  - Bg_Overlay_Blue_Cmn
+  - goodsBlue
+  - Gold Coins
+  - goods
+  - Bg_Overlay_Oramge_Cmn
+  - Crystal
+  - arrow
+  - Clan
+  - pngwing.com (6)
+  - Bar_green
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
